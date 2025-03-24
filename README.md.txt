@@ -2,11 +2,8 @@
 SCM Assignmemt 
 
 ## Description
-<<<<<<< HEAD
-This is the description for the main branch.
-=======
-This is the description for the conflict-demo branch.
->>>>>>> origin/conflict-demo
+This is the description for the main and conflict-demo branches, with a resolved conflict.
+
 
 ## Steps to Run the Project
 1. Clone the repository:
