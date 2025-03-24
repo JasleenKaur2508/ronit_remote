@@ -2,7 +2,7 @@
 SCM Assignmemt 
 
 ## Description
-To demonstrate your understanding of cloning, forking, pull requests, .gitignore, README files, and merge conflict resolution.
+This is the description for the conflict-demo branch.
 
 ## Steps to Run the Project
 1. Clone the repository:
