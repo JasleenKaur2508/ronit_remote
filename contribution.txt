@@ -1,0 +1,2 @@
+Name: Jasleen Kaur
+Idea: Improve the documentation for beginners to make it easier for them to get started with the project.
